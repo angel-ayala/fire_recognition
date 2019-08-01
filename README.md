@@ -2,6 +2,10 @@
 
 This code is the results of a proposed model using ResNet and Octave Convolution for fire recognition.
 This was based on the octave implementation published in the [titu1994 repo](https://github.com/titu1994/keras-octconv) and modified for this purpose.
+
+A detailed version of the model
+<img src="https://github.com/titu1994/keras-octconv/blob/master/models/OctFiResNet_model.png?raw=true" height=100% width=50%>
+
 Also a baseline cross-dataset validation and testing is proposed with 4 differents datasets:
 
 * FireSense: [FIRESENSE database of videos for flame and smoke detection](https://zenodo.org/record/836749)

@@ -1,0 +1,14 @@
+# blacklist datasets
+/datasets/CairDataset/*
+/datasets/FireNetDataset/*
+/datasets/FireSenseDataset/*
+/datasets/FiSmo-Images/*
+
+# whitelist dataset prep
+!/datasets/CairDataset/*.csv
+!/datasets/FireNetDataset/*.csv
+!/datasets/FireSenseDataset/*.csv
+!/datasets/FiSmo-Images/*.csv
+
+!datasets/*.pdf
+*__pycache__*

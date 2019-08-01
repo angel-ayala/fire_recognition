@@ -1,0 +1,11 @@
+model_name,datasets_id,accuracy,nofire_as_nofire,fire_as_nofire,nofire_as_fire,fire_as_fire,nofire_precision,nofire_recall,nofire_f1-score,nofire_support,fire_precision,fire_recall,fire_f1-score,fire_support
+model_firesense_self_000.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_001.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_002.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_003.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_004.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_005.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_006.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_007.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_008.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66
+model_firesense_self_009.h5,firesense_self,1.0,116,0,0,66,1.0,1.0,1.0,116,1.0,1.0,1.0,66

@@ -10,5 +10,9 @@
 !/datasets/FireSenseDataset/*.csv
 !/datasets/FiSmo-Images/*.csv
 
+# blacklist models
+*.h5
+
+# whitelist pdf assets
 !datasets/*.pdf
 *__pycache__*
